@@ -1,0 +1,8 @@
+C:\Users\Ravi\source\repos\Kamala_FileTransfer\Kamala_FileTransfer\bin\Release\Kamala_FileTransfer.exe.config
+C:\Users\Ravi\source\repos\Kamala_FileTransfer\Kamala_FileTransfer\bin\Release\Kamala_FileTransfer.exe
+C:\Users\Ravi\source\repos\Kamala_FileTransfer\Kamala_FileTransfer\bin\Release\Kamala_FileTransfer.pdb
+C:\Users\Ravi\source\repos\Kamala_FileTransfer\Kamala_FileTransfer\obj\Release\Kamala_FileTransfer.csproj.AssemblyReference.cache
+C:\Users\Ravi\source\repos\Kamala_FileTransfer\Kamala_FileTransfer\obj\Release\Kamala_FileTransfer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ravi\source\repos\Kamala_FileTransfer\Kamala_FileTransfer\obj\Release\Kamala_FileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\source\repos\Kamala_FileTransfer\Kamala_FileTransfer\obj\Release\Kamala_FileTransfer.exe
+C:\Users\Ravi\source\repos\Kamala_FileTransfer\Kamala_FileTransfer\obj\Release\Kamala_FileTransfer.pdb
